@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+	<string name="txtTitle" text="BLOCK PUZZLE MASTER"/>
+	<string name="txt-selectmode" text="CHỌN CHẾ ĐỘ"/>
+	<string name="txt-play" text="CHƠI"/>
+	<string name="txt-exit" text="THOÁT"/>
+
+	<!--Quit Game-->
+	<string name="txt-quit-title" text="BẠN CHẮC CHẮN CHỨ?"/>
+	<string name="txt-quit-confirm" text="Bạn có chắc muốn thoát khỏi trò chơi không?"/>
+	<string name="txt-quit" text="Ở LẠI!"/>
+	<string name="txt-stay" text="THOÁT"/>
+
+	<!--Select Mode-->
+	<string name="txt-select-mode" text="CHỌN CHẾ ĐỘ"/>
+	<string name="txt-classic" text="CHẾ ĐỘ CỔ ĐIỂN"/>
+	<string name="txt-timed" text="CHẾ ĐỘ CÓ THỜI GIAN"/>
+	<string name="txt-blast" text="CHẾ ĐỘ NỔ"/>
+	<string name="txt-advanced" text="CHẾ ĐỘ NÂNG CAO"/>
+	<string name="txt-challenge" text="CHẾ ĐỘ THÁCH THỨC"/>
+
+	<!--Settings Screen-->
+	<string name="txt-settings" text="CÀI ĐẶT"/>
+	<string name="txt-sound" text="ÂM THANH"/>
+	<string name="txt-music" text="ÂM NHẠC"/>
+	<string name="txt-rate" text="ĐÁNH GIÁ"/>
+	<string name="txt-vote" text="CHỌN"/>
+	<string name="txt-about" text="VỀ CHÚNG TÔI"/>
+
+	<!--ShopScreen-->
+	<string name="txt-shop" text="CỬA HÀNG"/>
+	<string name="txt-remove-ads" text="LOẠI BỎ QUẢNG CÁO"/>
+	<string name="txt-Coin1" text="500 Xu"/>
+	<string name="txt-Coin2" text="1650 Xu"/>
+	<string name="txt-Coin3" text="3000 Xu"/>
+	<string name="txt-Coin4" text="6250 Xu"/>
+
+	<string name="txt-success" text="THÀNH CÔNG"/>
+	<string name="txt-note" text="GHI CHÚ"/>
+	<string name="txt-ok" text="OK"/>
+	<string name="txt-success-content" text="Giao dịch mua hàng thành công."/>
+	<string name="txt-fail-content" text="Giao dịch mua hàng không thành công, vui lòng thử lại."/>
+
+	<!--Pause-->
+	<string name="txt-paused" text="TẠM DỪNG"/>
+	<string name="txt-home" text="TRANG CHỦ"/>
+	<string name="txt-reset" text="ĐẶT LẠI"/>
+
+	<!--Rescue-->
+	<string name="txt-keep-playing" text="TIẾP TỤC CHƠI?"/>
+	<string name="txt-recue" text="Đừng từ bỏ, bạn đang có một cơ hội nữa."/>
+	<string name="txt-free-rescue" text="CỨU MIỄN PHÍ"/>
+	<string name="txt-usecoins" text="200 Xu"/>
+
+	<!--Game Over Reason-->
+	<string name="txt-out-moves" text="HẾT NƯỚC ĐI!"/>
+	<string name="txt-bomb-blast" text="BOM NỔ!"/>
+	<string name="txt-time-over" text="HẾT GIỜ!"/>
+
+	<!---Select Language-->
+	<string name="txt-select-language" text="CHỌN NGÔN NGỮ"/>
+
+	<!---help time mode-->
+	<string name="txt-help-timed" text="Hãy theo dõi bộ đếm thời gian, phá vỡ các hàng để tăng thời gian!"/>
+	<string name="txt-help-bomb" text="Khi bộ đếm kết thúc, bom sẽ nổ, hãy phá bom trước khi nó nổ!"/>
+	<string name="txt-help-advance" text="Chơi với các khối bổ sung này!"/>
+	<!---GAMEOVER-->
+	<string name="txt-coin" text="XU"/>
+	<string name="txt-score" text="ĐIỂM"/>
+	<string name="txt-best" text="TỐT NHẤT"/>
+
+	
+</Resources>

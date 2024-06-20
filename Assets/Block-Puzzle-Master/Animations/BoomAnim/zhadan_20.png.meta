@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 5b15bf7a743fe7841b04c07019e80227
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zhadan_20_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 886
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918daccddfc4a54facd22ff0ec10041
+      internalID: -904396981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 877
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1191959a3fdfa4094259b7056dc722
+      internalID: 1359890107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 867
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe650970a9ff1c41b54039fe3f8a951
+      internalID: 1415225835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 857
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a28448a741a02043a600b51fe8a6fb5
+      internalID: 849603805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 842
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ff0592ed363742847ca15835338e1
+      internalID: 421481250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 637
+        width: 172
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0240f48322454d9a5d9200a430df8
+      internalID: 2117068206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 186
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299f977cfa648a4d9c4af8b7b8a4cad
+      internalID: 1660315577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 623
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486987160445fe439760c9031c0a179
+      internalID: 939562006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 625
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d2039c84efd1428b472421a267dfc
+      internalID: -373947487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_46
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 654
+        width: 217
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8628ac25d56a348bedaaa7e433e9bb
+      internalID: 1148261334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_104
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 559
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23df3a75fbfbb5448805667e30434277
+      internalID: 1308364262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 476
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7b9aaa54c92b4490526d13571a36f
+      internalID: 961014093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_107
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 510
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281402c0b56fd8c449052a743ceb2814
+      internalID: 909693254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 540
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1959a7caa77343887615f56fa9eba
+      internalID: -593074921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_109
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 562
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fdc06537dc53c45a4dc3e709a61d6d
+      internalID: -167963545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_110
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 516
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ef764f9de685b44a2cf067dda0c704
+      internalID: 749929090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_111
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 518
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67badfbf3c2193d4f99042869625dfef
+      internalID: -486819033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_112
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 521
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0554d7144025ffb48b988910fbd58f19
+      internalID: 2140204851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhadan_20_113
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 518
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f9070f259a8444eaf48275935f25a8
+      internalID: -554084688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zhadan_20_0: 1900601848
+      zhadan_20_1: -904396981
+      zhadan_20_10: 1952056137
+      zhadan_20_100: -1011895208
+      zhadan_20_101: -596479392
+      zhadan_20_102: -189055634
+      zhadan_20_103: -688273813
+      zhadan_20_104: 1308364262
+      zhadan_20_105: 797385892
+      zhadan_20_106: 961014093
+      zhadan_20_107: 909693254
+      zhadan_20_108: -593074921
+      zhadan_20_109: -167963545
+      zhadan_20_11: 2052435057
+      zhadan_20_110: 749929090
+      zhadan_20_111: -486819033
+      zhadan_20_112: 2140204851
+      zhadan_20_113: -554084688
+      zhadan_20_12: -1104357555
+      zhadan_20_13: 506599716
+      zhadan_20_14: 154767193
+      zhadan_20_15: -1451821103
+      zhadan_20_16: -1463386130
+      zhadan_20_17: 1890486266
+      zhadan_20_18: 2147157449
+      zhadan_20_19: 787727926
+      zhadan_20_2: 1278177234
+      zhadan_20_20: 118308901
+      zhadan_20_21: 530453678
+      zhadan_20_22: -1689373530
+      zhadan_20_23: 568911029
+      zhadan_20_24: -640885536
+      zhadan_20_25: 1450568421
+      zhadan_20_26: -1658126925
+      zhadan_20_27: 939562006
+      zhadan_20_28: 440066082
+      zhadan_20_29: -2075910134
+      zhadan_20_3: 1359890107
+      zhadan_20_30: 1018920191
+      zhadan_20_31: -504040889
+      zhadan_20_32: -373947487
+      zhadan_20_33: -1972083279
+      zhadan_20_34: -727346059
+      zhadan_20_35: 958194670
+      zhadan_20_36: 1895917323
+      zhadan_20_37: -1087065946
+      zhadan_20_38: -1195898621
+      zhadan_20_39: 801299609
+      zhadan_20_4: 1415225835
+      zhadan_20_40: 74875137
+      zhadan_20_41: -1638088016
+      zhadan_20_42: -1623112996
+      zhadan_20_43: 1839122324
+      zhadan_20_44: -811435135
+      zhadan_20_45: 1822993568
+      zhadan_20_46: 1148261334
+      zhadan_20_47: -1674208756
+      zhadan_20_48: 1576616012
+      zhadan_20_49: -927348751
+      zhadan_20_5: 849603805
+      zhadan_20_50: 539366316
+      zhadan_20_51: -89239153
+      zhadan_20_52: 1830148997
+      zhadan_20_53: 1054732110
+      zhadan_20_54: -681154280
+      zhadan_20_55: -480972795
+      zhadan_20_56: 830948123
+      zhadan_20_57: 1407361871
+      zhadan_20_58: -1193460662
+      zhadan_20_59: 1523774433
+      zhadan_20_6: 421481250
+      zhadan_20_60: -2101535613
+      zhadan_20_61: -1163727567
+      zhadan_20_62: -985890226
+      zhadan_20_63: -145190113
+      zhadan_20_64: -785231204
+      zhadan_20_65: 62905249
+      zhadan_20_66: -1152541122
+      zhadan_20_67: -355341378
+      zhadan_20_68: -1790288870
+      zhadan_20_69: -751662415
+      zhadan_20_7: 781075472
+      zhadan_20_70: -819896871
+      zhadan_20_71: 1811716133
+      zhadan_20_72: -764371463
+      zhadan_20_73: 1222068571
+      zhadan_20_74: 209433407
+      zhadan_20_75: -1839234154
+      zhadan_20_76: -946641437
+      zhadan_20_77: 1963746389
+      zhadan_20_78: 34873383
+      zhadan_20_79: -1863640586
+      zhadan_20_8: 2117068206
+      zhadan_20_80: 396430837
+      zhadan_20_81: 113280974
+      zhadan_20_82: -373002417
+      zhadan_20_83: 1732183877
+      zhadan_20_84: 1714433935
+      zhadan_20_85: -703027327
+      zhadan_20_86: 592756746
+      zhadan_20_87: -599721140
+      zhadan_20_88: 495732673
+      zhadan_20_89: -1448686406
+      zhadan_20_9: 1660315577
+      zhadan_20_90: 1339460082
+      zhadan_20_91: -1933519861
+      zhadan_20_92: 104771244
+      zhadan_20_93: 408681277
+      zhadan_20_94: -1662545293
+      zhadan_20_95: -1175538409
+      zhadan_20_96: -1247063235
+      zhadan_20_97: 1049810670
+      zhadan_20_98: -265769876
+      zhadan_20_99: -2116929045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
